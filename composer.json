@@ -1,5 +1,5 @@
 {
-    "name": "askuri/muxconvert-php",
+    "name": "askuri/muxconvert",
     "type": "library",
     "description": "Convert Nadeo's .mux to .ogg files",
     "keywords": ["convert", "trackmania", "shootmania", "maniaplanet", "nadeo", "mux", "ogg"],
