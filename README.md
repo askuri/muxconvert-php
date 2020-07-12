@@ -26,7 +26,8 @@ $mux = $muxconvert->ogg2mux();
 ```
 
 ## Change log
-No release yet.
+### 0.1.0 (2020-07-12)
+* Initial release
 
 ## Testing
 
