@@ -1,0 +1,28 @@
+{
+    "name": "askuri/muxconvert-php",
+    "type": "library",
+    "description": "Convert Nadeo's .mux to .ogg files",
+    "keywords": ["convert", "trackmania", "shootmania", "maniaplanet", "nadeo", "mux", "ogg"],
+    "homepage": "https://github.com/askuri/muxconvert-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Weber",
+            "email": "enwi2@t-online.de",
+            "homepage": "http://askuri.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "askuri\\MuxConvert\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.2",
+        "larapack/dd": "^1.1"
+    }
+}

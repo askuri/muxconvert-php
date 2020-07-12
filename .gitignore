@@ -1,0 +1,5 @@
+nbproject
+build
+composer.lock
+.phpunit.result.cache
+vendor
